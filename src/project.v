@@ -30,7 +30,7 @@ module tt_um_example (
         .a(ui_in[7:0]),
         .b(uio_in[7:0]),
         .Y(uo_out[7:0])
-    )
+    );
 
     
 
